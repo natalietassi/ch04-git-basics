@@ -31,3 +31,12 @@ breakfast today
 
 7. Push changes up to GitHub.  See [Pushing and
    Pulling](https://faculty.washington.edu/otoomet/info201-book/git-basics.html#pushing-and-pulling). 
+   
+   Breakfast list
+   - vanilla yogurt
+   - strawberries
+   - blueberries
+   - hashbrowns
+   - granola
+   - chocolate chips
+   
