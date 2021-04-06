@@ -27,6 +27,6 @@ Learn the basics of git workflow, including adding new files.
 
 6. check the repo on your github account.  Did it work?
 
-[This is a photo of Dubs the Husky] (DubsPic.jpg)
+![This is a photo of Dubs the Husky] (DubsPic.jpg)
 
 This photo is of Dubs II, the new University of Washington husky mascot. Unfortunately, Dubs recently passed away, but Dubs II is ready to step in as the new face of UW. In this photo, Dubs II is wearing a purple paw bandana around his neck, symbolizing his support for the University of Washington. The photo was taken in the University of Washington stadium on top of the football field.
